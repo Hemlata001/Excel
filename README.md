@@ -20,3 +20,5 @@ A,B,C -----
 total rows - 10,48,576
 total column - 16,384
 last column name - XFD
+
+# learn about charts in excel like barchart, piechart,2d chart,waterfall,thermometer,treemap,negative,year,stacked etc. 
